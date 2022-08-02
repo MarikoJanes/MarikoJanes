@@ -29,6 +29,12 @@
  🎓 Recently graduated from [Flatiron School](https://flatironschool.com/), an immersive 15-Week Full-Stack Software Engineering Bootcamp
  
  
+ 👘 I'm originally from Jappan
+ 
+ 
+ 🗣 English / Japanese (my native language)
+ 
+ 
  🌱 I’m currently learning TypeScript / Python 
  
  

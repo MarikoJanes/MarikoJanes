@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mariko
+### Hi there, I'm Mariko👋
 ### I'm a Full-Stack Software Engineer👩‍💻
 ![I am a Full-Stack Software Engineer👩‍💻](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
 
